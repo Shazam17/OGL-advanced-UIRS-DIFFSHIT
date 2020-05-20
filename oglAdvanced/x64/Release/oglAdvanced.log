@@ -1,0 +1,69 @@
+﻿  oglAdvanced.cpp
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\vao.h(16): warning C4091: 'inline ': ignored on left of 'VAO::tupple' when no variable is declared
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\vao.h(43): warning C4091: 'inline ': ignored on left of 'VAO::Layout' when no variable is declared
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\vao.h(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\vao.h(55): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\app.h(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\app.h(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\app.h(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\app.h(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\app.h(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\app.h(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\app.h(93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\app.h(144): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\mesh.h(23): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\mesh.h(24): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\mesh.h(73): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(49): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(55): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(228): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(360): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(364): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(366): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(457): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(463): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(485): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(486): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(488): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(490): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(491): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(492): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\ogladvanced\ogladvanced\ogladvanced.cpp(494): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Generating code
+  1 of 2275 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  oglAdvanced.vcxproj -> C:\Users\JohnPower\source\repos\oglAdvanced\x64\Release\oglAdvanced.exe
